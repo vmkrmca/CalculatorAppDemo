@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // Adding a Line of COde in Android studio
+        // Adding a Line of COde in Android studio
+        // Adding a Line of COde in Android studio
     }
 }
