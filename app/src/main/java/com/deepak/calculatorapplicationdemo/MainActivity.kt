@@ -8,8 +8,5 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // Adding a Line of COde in Android studio
-        // Adding a Line of COde in Android studio
-        // Adding a Line of COde in Android studio
     }
 }
